@@ -1,13 +1,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My New Hugo Site</title>
-    <link>http://example.org/categories/</link>
+    <link>https://lazzd.github.io/prova-site/categories/</link>
     <description>Recent content in Categories on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-        <atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://lazzd.github.io/prova-site/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First Post</title>
+      <link>https://lazzd.github.io/prova-site/posts/first-post/</link>
+      <pubDate>Sat, 17 Apr 2021 15:04:03 +0200</pubDate>
+      
+      <guid>https://lazzd.github.io/prova-site/posts/first-post/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
